@@ -1,38 +1,50 @@
-#CinzaHead{
+#CinzaHead {
 
     background-color: #F3F3F3;
     margin: 0;
-    padding: 0;
-    
-       
+    padding: 0;   
+      
 }
-
-#CinzaHead ul{
-    list-style: none; 
-    float: left;
-    width: 100%;
-}
-
 #CinzaHead ul li {
     display: inline;
 }
 
-#CinzaHead ul li a {
+#SitesExternos ul{
+    list-style: none; 
+    float: left;
+    text-align: justify;
+    width: 100%;
+}
+
+#SitesExternos ul li a {
     padding: 2px 5px;
     display: inline-block;
 
 }
 
-#VerdeHead{
-    background-color: #3B9C01;
-    margin: 0;
-    padding: 0;
+#SitesUsuarios ul{
+    
+    float: right;
+    padding: 2px 5px;
+    text-align: justify;
+    width: 100%;
+    
+}
+
+#SitesUsuarios ul li {
+    display: inline;
+}
+#SitesUsuarios ul li a {
+    padding: 2px 5px;
+    display: inline-block;
 
 }
 
-h1 {
-
+#SubMenuStUsuarios {
+    display: list-item;
+    
 }
+
 
 #CinzaHead a#globo{
     text-decoration: none;
@@ -63,3 +75,14 @@ h1 {
     font-weight: bolder;
 
 } 
+
+#VerdeHead{
+    background-color: #3B9C01;
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+
+}
