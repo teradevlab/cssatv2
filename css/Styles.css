@@ -1,0 +1,65 @@
+#CinzaHead{
+
+    background-color: #F3F3F3;
+    margin: 0;
+    padding: 0;
+    
+       
+}
+
+#CinzaHead ul{
+    list-style: none; 
+    float: left;
+    width: 100%;
+}
+
+#CinzaHead ul li {
+    display: inline;
+}
+
+#CinzaHead ul li a {
+    padding: 2px 5px;
+    display: inline-block;
+
+}
+
+#VerdeHead{
+    background-color: #3B9C01;
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+
+}
+
+#CinzaHead a#globo{
+    text-decoration: none;
+    color: blue;
+    font-weight: bolder;
+}
+#CinzaHead a#g1{
+    text-decoration: none;
+    color: #b20000;
+    font-weight: bolder;
+
+}
+#CinzaHead a#globoesporte{
+    text-decoration: none;
+    color: #5b831e;
+    font-weight: bolder;
+
+}
+#CinzaHead a#gshow {
+    text-decoration: none;
+    color: #ff884e;
+    font-weight: bolder;
+  
+}
+#CinzaHead a#videos {
+    text-decoration: none;
+    color: #225cef;
+    font-weight: bolder;
+
+} 
