@@ -59,7 +59,25 @@ nav#CinzaHead {
 
 } 
 
+table#ClassificacaoGeral {
+    border: 2px solid #F4F4F4;
+    text-align: center;
+    padding: 3px;
 
+}
+
+table#ClassificacaoGeral caption
+{
+    text-align: left;
+    font-weight: bolder;
+
+}
+table#ClassificacaoGeral td
+{
+    text-align: center;
+    border: 2px solid #F4F4F4;
+    border-spacing: 2px;
+}
 
 h1 {
 
