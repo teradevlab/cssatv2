@@ -1,16 +1,23 @@
-#CinzaHead {
+nav#CinzaHead {
 
     background-color: #F3F3F3;
     margin: 0;
     padding: 0;   
       
 }
+#VerdeHead{
+    background-color: #3B9C01;
+    margin: 0;
+    padding: 30px;
+}
+
 #CinzaHead ul li {
     display: inline;
+    
 }
 
 #SitesExternos ul{
-    list-style: none; 
+    
     float: left;
     text-align: justify;
     width: 100%;
@@ -21,30 +28,6 @@
     display: inline-block;
 
 }
-
-#SitesUsuarios ul{
-    
-    float: right;
-    padding: 2px 5px;
-    text-align: justify;
-    width: 100%;
-    
-}
-
-#SitesUsuarios ul li {
-    display: inline;
-}
-#SitesUsuarios ul li a {
-    padding: 2px 5px;
-    display: inline-block;
-
-}
-
-#SubMenuStUsuarios {
-    display: list-item;
-    
-}
-
 
 #CinzaHead a#globo{
     text-decoration: none;
@@ -76,12 +59,7 @@
 
 } 
 
-#VerdeHead{
-    background-color: #3B9C01;
-    margin: 0;
-    padding: 0;
 
-}
 
 h1 {
 
