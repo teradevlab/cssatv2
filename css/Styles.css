@@ -1,3 +1,7 @@
+body {
+    background-color: #F4F4F4;
+}
+
 nav#CinzaHead {
 
     background-color: #F3F3F3;
@@ -27,6 +31,13 @@ nav#CinzaHead {
     padding: 2px 5px;
     display: inline-block;
 
+}
+
+#SitesUsuarios ul {
+    
+    padding: 2px 5px;
+    display: inline-block;
+    text-decoration: none;
 }
 
 #CinzaHead a#globo{
@@ -63,6 +74,7 @@ table#ClassificacaoGeral {
     border: 2px solid #F4F4F4;
     text-align: center;
     padding: 3px;
+    background-color: #F4F4F4;
 
 }
 
@@ -70,15 +82,22 @@ table#ClassificacaoGeral caption
 {
     text-align: left;
     font-weight: bolder;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 table#ClassificacaoGeral td
 {
     text-align: center;
-    border: 2px solid #F4F4F4;
-    border-spacing: 2px;
+    border: 2px solid #F9F9F9;
+    border-spacing: 0px;
+    padding: 5px;
 }
 
-h1 {
 
+#CabecalhoTB title {
+    text-align: center;
+    font-weight: bolder;
+    
 }
