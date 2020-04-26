@@ -9,6 +9,11 @@ nav#CinzaHead {
     padding: 0;   
       
 }
+#Div2VdHead#CabecalhoTB title {
+    text-align: center;
+    font-weight: bolder;  
+}
+
 #VerdeHead{
     background-color: #3B9C01;
     margin: 0;
@@ -70,15 +75,15 @@ nav#CinzaHead {
 
 } 
 
-table#ClassificacaoGeral {
+#ClassificacaoGeral {
     border: 2px solid #F4F4F4;
     text-align: center;
     padding: 3px;
-    background-color: #F4F4F4;
+    background-color: #F2F2F2;
 
 }
 
-table#ClassificacaoGeral caption
+#ClassificacaoGeral caption
 {
     text-align: left;
     font-weight: bolder;
@@ -87,7 +92,7 @@ table#ClassificacaoGeral caption
     margin-right: auto;
 
 }
-table#ClassificacaoGeral td
+#ClassificacaoGeral td
 {
     text-align: center;
     border: 2px solid #F9F9F9;
@@ -95,9 +100,7 @@ table#ClassificacaoGeral td
     padding: 5px;
 }
 
-
-#CabecalhoTB title {
-    text-align: center;
-    font-weight: bolder;
-    
+#ClassificacaoGeral#Escuro td 
+{
+    color: #F4F4F4;
 }
